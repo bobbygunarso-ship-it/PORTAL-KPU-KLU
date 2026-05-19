@@ -1,5 +1,5 @@
-CREATE DATABASE IF NOT EXISTS db_kpu_klu;
-USE db_kpu_klu;
+-- CREATE DATABASE IF NOT EXISTS db_kpu_klu;
+-- USE db_kpu_klu;
 
 CREATE TABLE IF NOT EXISTS users (
     id INT AUTO_INCREMENT PRIMARY KEY,
