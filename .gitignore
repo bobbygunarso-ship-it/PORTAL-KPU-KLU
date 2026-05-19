@@ -1,0 +1,8 @@
+# XAMPP & OS Temp Files
+.DS_Store
+Thumbs.db
+*.log
+
+# Large media uploads (Opsional: disarankan diabaikan jika tidak ingin repositori terlalu berat)
+# assets/uploads/music/*
+# assets/uploads/documents/*

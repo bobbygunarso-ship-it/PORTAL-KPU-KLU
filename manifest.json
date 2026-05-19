@@ -1,0 +1,16 @@
+{
+  "name": "Portal KPU KLU",
+  "short_name": "KPU KLU",
+  "description": "Portal Layanan Komisi Pemilihan Umum Kabupaten Lombok Utara",
+  "start_url": "/PORTAL-KPU-KLU/index.php",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ea580c",
+  "icons": [
+    {
+      "src": "assets/images/logo-kpu.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
